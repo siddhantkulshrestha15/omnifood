@@ -1,0 +1,182 @@
+@media only screen and (max-width:1478px) {
+.headpara{
+font-size: 35px;
+padding-left: 160px;
+}
+.btn-full{
+margin-left: 160px;
+}
+.imago{
+    margin-left: 90px;
+    padding-top: 20px;
+}
+.main-nav{
+    margin-right: 160px;
+}
+.b{
+    padding-right: 50px;
+}
+.container{
+    margin-left: 20px;
+    padding-right: 70px;
+}
+.box{
+    width: 15vw;
+}
+.pyto{
+    word-spacing:normal;
+    text-align:left;
+    padding-left: 15px;
+}
+.mass{
+    width: 22vw;
+}
+.imagi1 , .imagi2{
+    width: 87vw;
+    margin-left: 70px;
+}
+.content31{
+    width: 37vw;
+}
+.seperatecity{
+    margin-left: 35px;
+}
+.city{
+    width: 90vw;
+}
+.cityc{
+    padding-right: 100px;
+}
+.cityname{
+    padding-left: 20px;
+}
+.jawan{
+    width: 16vw;
+    padding-left: 30px;
+}
+.ukp{
+    justify-content:center;
+    padding-right: 30px;
+}
+.bhool{
+    padding-left: 32px;
+}
+/*.custima{
+    display: none;
+} */
+/*.cusna{
+    margin-left: 20px;
+    padding-left: 20px;
+}*/
+/*.custinfo{padding-left: 20px;}*/
+.insignup{padding-right: 30px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.offerdetails{
+    width: 250px;
+    height: 330px;
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 120px;
+    margin-right: 50px;
+    padding-left: 20px;
+    padding-top: 15px;
+    word-spacing: 2px;
+    font-size: small;
+    line-height: 25px;
+    
+}
+.chomub{
+    float: left;
+    margin-left: 10px;
+    
+}
+.form16{
+    font-size: small;
+    width: 60vw;
+    height: 430px;
+    padding-left: 80px;
+    margin-left: auto;
+}
+.foot{
+ font-size: small; 
+}
+
+.f3{
+    
+    padding-top: 60px;
+    width: 30vw;
+    height: 150px;
+    background-color: rgb(103, 54, 54);
+    
+    margin-left: 90px;
+    padding-left: 180px;
+}
+.f2{
+    width: 32vw;
+    height: 50px;
+    padding-left: 120px;
+    margin-left: 10px;
+}
+.ukp{
+    width: 25vw;
+
+}
+.cusna{
+    float: left;
+}
+
+}
+
+@media only screen and (max-width:1174px){
+
+    .imago{
+        float: left;
+        margin-left: 60px;
+    }
+    .main-nav{
+        margin-right: 80px;
+    }
+    .seperatecity{
+        font-size: 15px;
+    }
+    .offerdetails{
+        height: 350px;
+    }
+    .form16{
+        font-size: 13px;
+    }
+    .label{
+        float: left;
+        padding-left: 0px;
+        font-size: 14px;
+    }
+    .input{
+        float: right;
+        margin-right: 150px;
+    }
+    .i4{
+        margin-right: 400px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
